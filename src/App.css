@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.noteContainer {
+  border: 1px solid grey;
+  min-height: 15rem;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  margin: 5px;
+}
